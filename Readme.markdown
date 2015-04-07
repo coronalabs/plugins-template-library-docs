@@ -1,6 +1,7 @@
-# PLUGIN_NAME.*
+__*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. 
 
-NOTE: See [Instructions](Instructions.markdown) to learn how to use these stub documentation files. 
+
+# PLUGIN_NAME.*
 
 |                      | 
 | -------------------- | --------------------------------------------------------
