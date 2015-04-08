@@ -21,12 +21,12 @@ This [Corona](https://coronalabs.com/products/corona-sdk/) plugin enables you to
 
 ### Functions
 
-#### [PLUGIN_NAME.FUNCTION()](FUNCTION)
+#### [PLUGIN_NAME.FUNCTION()](FUNCTION.markdown)
 
 
 ### Properties
 
-#### [PLUGIN_NAME.PROPERTY](PROPERTY)
+#### [PLUGIN_NAME.PROPERTY](PROPERTY.markdown)
 
 
 ## Project Configuration
