@@ -11,7 +11,7 @@
 
 ## Overview
 
-This function does loads a JSON file and returns a corresponding Lua table.
+This function loads a JSON file and returns a corresponding Lua table.
 
 
 ## Syntax
