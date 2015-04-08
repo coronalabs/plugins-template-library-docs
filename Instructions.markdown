@@ -2,14 +2,14 @@
 
 ## Overview
 
-If you wish to distribute your plugin via the [Corona Store](http://store.coronalabs.com), you will be required to provide a URL for your documentation before your plugin is approved.
-
 These template files will help you write documentation for _library_ plugins.
 
 
 ## Hosting
 
-To simplify the hosting of your plugin documentation, we have designed these template files to be hosted as a public github repository. 
+In order to distribute your plugin to the Corona Store, you must post documentation for your plugin online.
+
+To simplify the hosting of your plugin documentation, we have designed these template files to be hosted as a public github repository.
 
 As a starting point, we recommend you copy, clone or fork this repository.
 
