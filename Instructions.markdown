@@ -6,7 +6,7 @@ These template files will help you write documentation for _library_ plugins.
 
 If you wish to create a [library plugin](http://docs.coronalabs.com/native/plugin/index.html#types-of-plugins), you can code it in 2 ways:
 
-* Lua code. It's much easier to create a plugin that works cross-platform, but you are limited to what's available in the Lua API's. To create a new project, use the [Project Template for Library Plugins (Lua)](). 
+* Lua code. It's much easier to create a plugin that works cross-platform, but you are limited to what's available in the Lua API's. To create a new project, use the [Project Template for Library Plugins (Lua)](https://github.com/coronalabs/plugins-template-library-lua). 
 * Native code. You have to generate binaries for each platform, but you have complete access to the native API's of the underlying platform. To create a new project, use the 'App' template that's available in the CoronaEnterprise install.
 
 
