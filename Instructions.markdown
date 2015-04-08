@@ -1,4 +1,4 @@
-# Doc Templates for Library Plugins
+# Doc Template for Library Plugins
 
 ## Overview
 
