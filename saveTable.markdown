@@ -11,7 +11,7 @@
 
 ## Overview
 
-This function does saves a Lua table to a JSON file
+This function saves a Lua table to a JSON file
 
 
 ## Syntax
