@@ -1,7 +1,7 @@
 # PLUGIN_NAME.FUNCTION()
 
-|                      | 
-| -------------------- | --------------------------------------------------------
+|                      | &nbsp; 
+| -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [PLUGIN_NAME.*](Readme.markdown)
 | __Return value__     | [TYPE]()
