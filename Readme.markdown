@@ -1,7 +1,7 @@
-__*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. 
+__*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. (Remove this before you deploy your docs)
 
 
-# PLUGIN_NAME.*
+# Plugin API Docs: PLUGIN_NAME
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
@@ -12,7 +12,7 @@ __*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documenta
 
 ## Overview
 
-This [Corona](https://coronalabs.com/products/corona-sdk/) plugin enables you to...
+The PLUGIN_NAME plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) project. It enables you to...
 
 
 ## Syntax
