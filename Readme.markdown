@@ -3,8 +3,8 @@ __*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documenta
 
 # PLUGIN_NAME.*
 
-|                      | 
-| -------------------- | --------------------------------------------------------
+|                      | &nbsp; 
+| -------------------- | ---------------------------------------------------------------
 | __Type__             | [TYPE](http://docs.coronalabs.com/api/type/Library.html)
 | __Corona Store__     | [PLUGIN_NAME](http://store.coronalabs.com/plugin/PLUGIN_NAME)
 | __Keywords__         | 
