@@ -4,7 +4,7 @@
 
 If you wish to distribute your plugin via the [Corona Store](http://store.coronalabs.com), you will be required to provide a URL for your documentation before your plugin is approved.
 
-These template files will help you write documentation for library plugins.
+These template files will help you write documentation for _library_ plugins.
 
 
 ## Hosting
