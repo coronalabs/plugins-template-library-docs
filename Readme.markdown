@@ -69,6 +69,11 @@ settings =
 If you have activated this plugin, you can download this plugin from the corresponding plugin page in the [Corona Store](http://store.coronalabs.com/plugin/PLUGIN_NAME).
 
 
+## Platform-specific Notes
+
+[Insert discussion on issues specific to iOS/Android/etc, or to specific devices]
+
+
 ## Resources
 
 ### Sample Code
