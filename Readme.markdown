@@ -79,12 +79,17 @@ More support is available from the PUBLISHER_NAME team:
 
 ## Compatibility
 
-| Platform             | Supported
-| -------------------- | --------------------------------------------------------
-| Android              | Yes
-| iOS                  | Yes
-| Mac                  | No
-| Win                  | No
-| Kindle               | Yes
-| NOOK                 | Yes
+| Platform                     | Supported
+| ---------------------------- | ---------------------------- 
+| iOS                          | No
+| Android                      | No
+| Android (GameStick)          | No
+| Android (Kindle)             | No
+| Android (NOOK)               | No
+| Android (Ouya)               | No
+| Mac App                      | No
+| Win32 App                    | No
+| Windows Phone 8              | No
+| Corona Simulator (Mac)       | No
+| Corona Simulator (Win)       | No
 
