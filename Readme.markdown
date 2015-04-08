@@ -1,7 +1,7 @@
 __*[NOTE]:*__ See [Instructions](Instructions.markdown) for these stub documentation files. (Remove this before you deploy your docs)
 
 
-# Plugin API Docs: PLUGIN_NAME
+# Plugin API: PLUGIN_NAME
 
 |                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
