@@ -32,9 +32,9 @@ This [Corona](https://coronalabs.com/products/corona-sdk/) plugin enables you to
 
 ##### [PLUGIN_NAME.PROPERTY1](PROPERTY.markdown)
 
-#### [PLUGIN_NAME.PROPERTY2](PROPERTY.markdown)
+##### [PLUGIN_NAME.PROPERTY2](PROPERTY.markdown)
 
-#### [PLUGIN_NAME.PROPERTY3](PROPERTY.markdown)
+##### [PLUGIN_NAME.PROPERTY3](PROPERTY.markdown)
 
 ## Project Configuration
 
